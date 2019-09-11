@@ -175,7 +175,7 @@ input[type=submit] {
 /* ----------------------------------*/
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(images/hero-min\ \(1\).jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(images/hero.jpg);
     background-size: cover;
     background-position: center;
     height: 110vh;
